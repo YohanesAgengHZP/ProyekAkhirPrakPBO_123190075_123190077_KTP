@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Raditha
+ * @author Raditha & Yohanes Ageng
  */
 public class Connector {
     public Connection koneksi;

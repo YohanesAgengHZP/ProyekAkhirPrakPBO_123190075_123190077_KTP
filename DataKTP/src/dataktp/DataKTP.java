@@ -11,7 +11,7 @@ import view.ViewKTP;
 
 /**
  *
- * @author Raditha
+ * @author Raditha & Yohanes Ageng
  */
 public class DataKTP {
 

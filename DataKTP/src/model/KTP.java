@@ -9,7 +9,7 @@ import database.Connector;
 import java.sql.ResultSet;
 /**
  *
- * @author Raditha
+ * @author Raditha & Yohanes Ageng
  */
 public class KTP {
     public Connector DB;

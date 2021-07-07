@@ -7,7 +7,7 @@ package controller;
 
 /**
  *
- * @author Raditha
+ * @author Raditha & Yohanes Ageng
  */
 public class ControllerKTP {
     public Object[][] index(){

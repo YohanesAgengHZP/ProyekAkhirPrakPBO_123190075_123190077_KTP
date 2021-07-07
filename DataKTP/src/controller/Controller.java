@@ -10,7 +10,7 @@ import model.KTP;
 
 /**
  *
- * @author Raditha
+ * @author Raditha & Yohanes Ageng
  */
 public class Controller extends ControllerKTP {
    KTP ktp;

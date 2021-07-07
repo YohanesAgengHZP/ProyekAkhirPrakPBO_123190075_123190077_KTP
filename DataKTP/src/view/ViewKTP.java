@@ -17,7 +17,7 @@ import javax.swing.RowFilter;
 import javax.swing.table.TableRowSorter;
 /**
  *
- * @author Raditha
+ * @author Raditha & Yohanes Ageng
  */
 public class ViewKTP extends javax.swing.JFrame {
     static Connector DB;
